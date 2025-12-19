@@ -31,7 +31,7 @@ Each table has a clearly defined responsibility, reducing redundancy and improvi
 
 The following tables have been explained below:
 
-
+<img width="970" height="300" alt="Screenshot 2025-12-20 at 12 27 05 AM" src="https://github.com/user-attachments/assets/786b3449-2bd2-4880-ab9c-3aa2b969a80b" />
 
 ## Patient Management
 The *patients* table stores essential patient details such as name, date of birth, gender, blood group, and contact information. Each patient is assigned a unique ⁠ patient_id ⁠, which acts as a reference point across billing, enrollments, and claims.
