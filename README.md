@@ -1,4 +1,10 @@
 # DBMS_SQL_Group-12_UnitedHealth-Group
+UHG_Database
+
+Project Submitted to: Prof. Ashok Harnal
+
+Project Submitted by: Naveen Kumar - 341029; Rohit Shetty - 341046; Trisha Roy - 341059
+
 UnitedHealth Group operates across healthcare delivery, insurance services, and enterprise support functions. Managing patients, staff, insurance coverage, claims, billing, inventory, and compliance requires a well-structured and reliable data system.
 This project focuses on designing a relational healthcare database using MySQL that reflects the core operations of a healthcare and insurance organization similar to UnitedHealth Group.
 The database design emphasizes accurate data storage, clear relationships, auditability, and future scalability, while remaining practical for academic evaluation.
